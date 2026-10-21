@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:21:54.512Z",
+  "generated_at": "2026-10-22T18:23:41.746Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -77,6 +77,17 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-10-22T18:21:54.571Z",
       "last_pushed_at": "2026-10-22T18:21:54.571Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-21T12:52:37.834Z",
+      "last_pushed_at": "2026-10-21T12:52:37.834Z"
     }
   }
 }

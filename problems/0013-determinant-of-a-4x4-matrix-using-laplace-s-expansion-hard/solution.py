@@ -16,10 +16,10 @@ def determinant_4x4(matrix) -> float:
         # Ensure it is placed on CPU and uses float data type
         tensor_matrix = matrix.to(dtype=torch.float)
     elif isinstance(matrix, np.ndarray):
-        tensor_matrix = torch.from_numpy(matrix).to(dtype=torch.float32)
+        tensor_matrix = torch.from_numpy(matrix).to(dtype=torch.float)
     else:
         # Assumes input is a nested Python list
-        tensor_matrix = torch.tensor(matrix, dtype=torch.float32)
+        tensor_matrix = torch.tensor(matrix, dtype=torch.float)
         
     # 2. Compute the determinant using PyTorch's linear algebra module
     det_tensor = torch.linalg.det(tensor_matrix)

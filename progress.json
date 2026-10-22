@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:23:46.775Z",
+  "generated_at": "2026-10-22T18:47:55.554Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -99,6 +99,19 @@
       "path": "math/0146-lda-versus-pca-separation-or-variance",
       "first_solved_at": "2026-10-22T16:40:30.001Z",
       "last_pushed_at": "2026-10-22T18:23:46.773Z"
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-22T18:47:55.990Z",
+      "last_pushed_at": "2026-10-22T18:47:55.990Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:23:44.105Z",
+  "generated_at": "2026-10-22T18:23:46.775Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -87,7 +87,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-21T12:52:37.834Z",
-      "last_pushed_at": "2026-10-21T12:52:37.834Z"
+      "last_pushed_at": "2026-10-22T18:23:46.773Z"
     },
     "math:146": {
       "kind": "math",
@@ -98,7 +98,7 @@
       "url": "https://www.deep-ml.com/math-problems/146",
       "path": "math/0146-lda-versus-pca-separation-or-variance",
       "first_solved_at": "2026-10-22T16:40:30.001Z",
-      "last_pushed_at": "2026-10-22T16:40:30.001Z"
+      "last_pushed_at": "2026-10-22T18:23:46.773Z"
     }
   }
 }
